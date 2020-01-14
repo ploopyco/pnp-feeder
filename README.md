@@ -6,6 +6,6 @@ This repository contains all of the design and production files necessary to mak
 
 These feeders have been designed for use with standard 8mm paper and plastic tapes. This sort of tape usually accommodates things like 0603 resistors, 0805 capacitors, SOT-23 devices, and many more.
 
-Check out a video of it in operation in a LitePlacer open-source pick-and-place machine [right here](https://youtube.com) **TODO: add video**.
+Check out a video of it in operation in a LitePlacer open-source pick-and-place machine [right here](https://www.youtube.com/watch?v=qa37CS5gLkE).
 
 What are you waiting for? Your new life awaits.
